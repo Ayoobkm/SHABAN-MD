@@ -21,7 +21,7 @@ ADMIN_EVENTS: process.env.ADMIN_EVENTS || "true",
 // make true to know who dismiss or promoted a member in group  
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/xSgr0P8L/shaban-md.jpg",
 // add custom menu and mention reply image url   
 BOT_NAME: process.env.BOT_NAME || "ZAYAN_SER",
 // add bot namw here for menu
@@ -37,7 +37,7 @@ OWNER_NAME: process.env.OWNER_NAME || "ZAYAN_SER",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ ZAYAN_SER*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/xSgr0P8L/shaban-md.jpg",
 // add img for alive msg 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
