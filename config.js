@@ -19,7 +19,7 @@ WELCOME: process.env.WELCOME || "false",
 // true if want welcome and goodbye msg in groups    
 ADMIN_EVENTS: process.env.ADMIN_EVENTS || "true",
 // make true to know who dismiss or promoted a member in group  
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || "!",
 // add your prifix for bot
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/uf9nsz.jpg",
 // add custom menu and mention reply image url   
